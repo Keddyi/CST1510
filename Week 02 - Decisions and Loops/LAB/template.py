@@ -67,7 +67,7 @@ print("=" * 34)
 
 print("=" * 34)
 print(f"GB used : {value:>15.2f}")
-print(f"GB totalS : {limit:>15.2f}")
+print(f"GB total : {limit:>15.2f}")
 print(f"Difference   : {difference:>+15.2f}")
 print(f"Percent      : {percent:>15.2f}%")
 
